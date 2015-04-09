@@ -1,6 +1,6 @@
 knife[:editor]="vim"
 
-client_key      'demo.pem'
+client_key      '.chef/demo.pem'
 chef_server_url 'https://192.168.33.11'
 cookbook_path   '.'
 
